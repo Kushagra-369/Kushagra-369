@@ -1,13 +1,12 @@
 <!-- 🌌 HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=150&section=header&text=Kushagra%20Chhabra&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer%20%7C%20App%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=75&descAlign=50" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Kushagra%20Chhabra&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer%20%7C%20App%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=70&descAlign=50" alt="banner" />
 </p>
-
-<h3 align="center">💻 Full Stack MERN Developer | 📱 App Developer | 🛡️ Cybersecurity Enthusiast | 🇮🇳 India</h3>
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<!-- 💻 CODING IMAGE -->
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/47/e42647a9af2d6b6d64db7a3a5b83f1c0.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kushagra-369&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -20,24 +19,32 @@
 
 ## 🚀 About Me  
 - 💡 **Full Stack MERN Developer** – passionate about crafting scalable and high-performance apps  
-- 📱 **App Developer** – building cross-platform experiences using React Native  
+- 📱 **App Developer** – creating cross-platform experiences with **React Native**  
 - 🛡️ **Cybersecurity Enthusiast** – exploring ethical hacking, penetration testing & web security  
 - ☁️ Learning **AWS, Docker, and Microservices Architecture**  
 - 🎯 Focused on **secure, efficient, and maintainable** development  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Full Stack Developer"/>
+</p>
+
 ---
 
-## 🧠 What I’m Currently Learning  
-- Advanced **System Design** & **Scalable APIs**  
-- **React Native** for hybrid app development  
-- **Network Security**, **OWASP Top 10**, and **Bug Bounty Methodologies**  
+## 🧠 Currently Exploring  
+- 🧩 Advanced **System Design** & **Scalable APIs**  
+- ⚙️ **React Native** for cross-platform mobile apps  
+- 🔐 **OWASP**, **Network Security**, and **Bug Bounty Methodologies**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="420" alt="Learning Cybersecurity"/>
+</p>
 
 ---
 
 ## 💬 Ask Me About  
-- 🧩 Full Stack (MERN) Development  
+- 💻 MERN Stack Development  
 - 📲 App Development (React Native)  
-- 🔐 Cybersecurity & Ethical Hacking  
+- 🔒 Cybersecurity & Ethical Hacking  
 - ☁️ Cloud & DevOps Tools  
 - 🧠 DSA and Backend Logic Design  
 
@@ -72,6 +79,10 @@
 ![Nmap](https://img.shields.io/badge/-Nmap-0048BA?logo=security&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burp-suite&logoColor=white)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" alt="Tech Stack Animation"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats  
@@ -80,18 +91,22 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-369&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kushagra-369&theme=radical&margin-w=10&no-frame=true&row=1" width="90%" alt="Trophies" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/kushagra-chhabra" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/kushagra-chhabra-83b215355" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45"/>
   </a>
   <a href="https://github.com/Kushagra-369" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
   </a>
   <a href="mailto:kushagrachhabra369@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
   </a>
 </p>
 
@@ -100,8 +115,12 @@
 ## ⚡ Fun Fact  
 > “In a world full of exploits, I prefer building systems that can’t be exploited.” 🧠💻  
 
+<p align="center">
+  <img src="https://i.gifer.com/origin/8e/8eecb4c3e2089a94633b16ed243b3b40_w200.gif" width="480" alt="Cyber Animation"/>
+</p>
+
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:0f172a&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=ffffff" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=ffffff" alt="footer" />
 </p>
