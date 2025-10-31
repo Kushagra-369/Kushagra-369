@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=150&section=header&text=Kushagra%20Chhabra&fontSize=50&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer%20%7C%20App%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=75&descAlign=50" alt="banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Kushagra Chhabra</h1>
 <h3 align="center">💻 Full Stack MERN Developer | 📱 App Developer | 🛡️ Cybersecurity Enthusiast | 🇮🇳 India</h3>
 
 <br>
@@ -88,14 +87,11 @@
   <a href="https://linkedin.com/in/kushagra-chhabra" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/kushagra_chhabra_369/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/>
+  <a href="https://github.com/Kushagra-369" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
   </a>
   <a href="mailto:kushagrachhabra369@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/Kushagra-369" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
   </a>
 </p>
 
